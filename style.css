@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.background-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height:100vh;
+    width:100vw;
+}
+.top-portion{
+    padding:20px;
+    border-width:0px;
+    border-radius:30px;
+    margin-top:20px;
+}
+button{
+    margin-top:20px;
+    border-radius:10px;
+}
+h1{
+    margin-top:20px;
+    font-family:"Roboto";
+    
+}
+.bottom-part{
+    padding:10px;
+    border-radius:10px;
+}
